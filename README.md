@@ -1,10 +1,7 @@
-
----
-
 # AFN-License 2.0  
 [![License](https://img.shields.io/badge/license-AFN--License-blue)](LICENSE)
 
-> **署名 - 免费使用 - 非销售许可**（AFN-License 2.0）
+> **AFN-License 2.0**（署名 - 免费使用 - 非销售许可）
 
 AFN-License 是一个专为开源与非销售类软件项目设计的许可协议，旨在平衡作者的署名权与使用者的自由度，同时禁止将软件本身作为商品进行直接销售。该协议适用于希望保护作品署名权、鼓励自由使用与修改，但不希望其被用于直接盈利场景的开发者或组织。
 
