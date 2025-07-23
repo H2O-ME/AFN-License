@@ -1,5 +1,5 @@
 # AFN-License 2.0  
-![License](https://img.shields.io/badge/license-AFN%20License%202.0-blue) ![License Link](LICENSE)
+![License](https://img.shields.io/badge/license-AFN%20License%202.0-blue)
 
 > **AFN-License 2.0**（署名 - 免费使用 - 非销售许可）
 
