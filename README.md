@@ -1,5 +1,5 @@
 # AFN-License 2.0  
-[![License](https://img.shields.io/badge/license-AFN--License-blue)](LICENSE)
+[![License](https://img.shields.io/badge/license-AFN-blue)](LICENSE)
 
 > **AFN-License 2.0**（署名 - 免费使用 - 非销售许可）
 
@@ -87,4 +87,3 @@ AFN-License 2.0 适合以下类型的项目或开发者：
 
 AFN-License 2.0 版权 © 2025 THW。本协议依据中华人民共和国《计算机软件保护条例》精神起草，适用于全球范围内的分发与使用。
 
----
