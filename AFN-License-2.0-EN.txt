@@ -1,0 +1,122 @@
+AFN-License 2.0
+
+Version 2.0 | Copyright © 2025 THW
+
+Preamble: This License is designed to protect the copyright of the Author in the Software and to regulate its use, reproduction, modification, and distribution, while aligning with the spirit and requirements of the laws and regulations of the People's Republic of China, particularly the "Regulations on Computer Software Protection."
+
+1. Definitions
+
+For the purpose of this License, the following terms shall have the meanings set forth below:
+
+"Software": refers to the original code, executable files, and related documentation released under this License. For the purpose of this License, 'Software' shall also be understood to conform to the definition of 'computer programs and their related documentation' as defined in Article 2 of the 'Regulations on Computer Software Protection of the People's Republic of China'.
+
+"Author": refers to the original creator of the Software, [Your Name/Organization Name].
+
+"You" or "User": refers to the individual or entity that accepts and complies with the terms of this License.
+
+"Affiliated Entity": refers to any entity that directly or indirectly controls, is controlled by, or is under common control with You, where 'control' means the ownership of more than 50% of the outstanding voting shares, equity, or securities, or the power to direct or cause the direction of the management and policies of such entity.
+
+"Distribution": means any act of making the Software available to a third party, including but not limited to publishing, transmitting, downloading, installing, or enabling access.
+
+"Derivative Work": refers to any new work formed by modifying, translating, extending, or combining with other works based on the Software, and which contains recognizable source code or functional logic modules of the Software.
+
+"Direct Sale": means charging a fee in any form for the direct acquisition of the Software or its Derivative Works, regardless of its nomenclature. This includes, but is not limited to:
+
+Sale of Licenses or Copies: Directly selling installation packages, license keys, activation codes, decryption keys for the Software, or providing Software copies through paid downloads, paid access, etc.
+Substantial Fee Bundling: Bundling the Software or its Derivative Works as the primary value component with highly overpriced non-software goods or services, or charging fees significantly higher than the cost of acquiring, storing, or transmitting the Software.
+Subscription Models: If the primary value of a subscription service lies in acquiring the Software itself and its regular updates, or unlocking core feature restrictions, rather than continuous value-added services, it shall be considered a Direct Sale.
+Disguised Charging via Feature Splitting: Splitting core functionalities of the Software and charging fees for the acquisition or use of any part thereof.
+Catch-all Clause: If a user primarily obtains the Software or its core functionalities by paying a fee, regardless of the nomenclature, it shall be considered a Direct Sale. When determining 'primarily by paying a fee,' comprehensive consideration will be given to the proportion of the fee, the user's direct purpose for acquiring the Software, and the substance of the transaction. This clause aims to prohibit profitability from the Software itself (rather than services provided based on the Software) as the primary subject of the transaction.
+"Value-Added Services": refers to additional services provided based on the Software, such as technical support, hosting and operation, custom development, data processing, or providing Software functionalities through remote network services (e.g., SaaS). Fees for such services primarily reflect service costs, human input, or additional resource consumption, rather than the licensing or copy acquisition fees for the Software itself. Providing functionalities based on the Software or its Derivative Works through remote network services (e.g., SaaS) and charging fees for such services shall not be deemed a 'Direct Sale' prohibited by Article 3.1 of this Agreement, provided that users can obtain the basic version of the Software for free.
+
+2. Grant of Rights
+
+Subject to all terms and conditions of this License, You are granted the following rights:
+
+To use, reproduce, and modify the Software without restriction, including for commercial purposes.
+To create closed-source Derivative Works.
+To use parts or all of the Software's code in other projects, including commercial closed-source projects.
+To Distribute original or modified versions of the Software, subject to the restrictions in Article 3.
+3. Core Restrictions
+
+3.1 No Direct Sale
+You shall not charge a fee in any form for the direct acquisition of the Software or its Derivative Works, i.e., 'Direct Sale' is prohibited.
+
+Exception: Profitability through Value-Added Services (e.g., SaaS, hardware integration) is permitted. Even if such services utilize Derivative Works of the Software, provided that users can obtain the basic version of the Software for free and the fees do not involve the direct sale of Software copies, it shall not be deemed a violation of this clause.
+
+3.2 Attribution Requirement
+When You Distribute the Software or use parts of its code in other projects, You must retain the original Author's attribution in a prominent location.
+
+Priority is given to retaining attribution in the following prominent locations:
+
+Graphical User Interface (GUI): 'About' page or settings page of the main interface.
+Command-line Tools: --version or --help output.
+Project Root Directory: LICENSE, NOTICE, or ATTRIBUTION.md file.
+For Source Code Files: If You make substantial modifications to the Software and Distribute the modified source code files, it is recommended to retain attribution in the header comments of such files, or clearly list it in an ATTRIBUTION.md file in the project root directory.
+'Substantial Modification' refers to significant additions, deletions, or changes to the functionality, logic, or architecture of the Software, rather than merely formatting adjustments, comment additions, variable renaming, or minor bug fixes that do not affect core functionality.
+In cases of Technical Limitations: Such as in binary distributions, embedded systems, or specific package metadata, attribution should instead be included in installation package metadata or an ATTRIBUTION.md file in the project root directory.
+Attribution should include the following information:
+
+Original Author's Name;
+Software Name;
+License Version (AFN-License v2.0);
+Optional: Project homepage or link to the License text.
+Example:
+
+This software contains AFN-Licensed code (v2.0) developed by [Author's Name].
+Project Homepage: https://example.com
+
+3.3 Inclusion of License Text
+When Distributing the Software or projects containing the Software, You must include the complete text of this License, or provide a copy of this License via a link.
+
+4. Legal Liabilities
+
+4.1 Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. In accordance with Article 6 of the 'Regulations on Computer Software Protection of the People's Republic of China,' the protection of software copyright under this License does not extend to the ideas, processing procedures, operating methods, or mathematical concepts used in developing the software. The Author shall not be liable for:
+
+The security, compliance, or intellectual property issues of the Software and Derivative Works;
+Direct, indirect, incidental, special, punitive, or consequential damages arising from the use or inability to use the Software;
+Infringement liability claimed by third parties regarding patents, trademarks, copyrights, etc.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+4.2 Patent Grant
+The Author grants You a non-exclusive, worldwide, royalty-free patent license, covering all patent technologies actually contained in the Software (including its subsequent versions) that the Author owns or has the right to license. This patent license is limited to your use, reproduction, modification, distribution, offer to sell, sale, import, and other exploitation of the Software and its Derivative Works, as well as any patent technologies contained in the Software that You would inevitably use in the reasonable use of the Software or its Derivative Works. This license does not cover patent technologies independently developed by You or acquired from third parties.
+
+Patent Defense Clause: If You or Your Affiliated Entities initiate patent litigation against the Author or its contributors (whether directly or indirectly) concerning patent technologies related to the Software or its Derivative Works (unless such litigation is a patent infringement lawsuit first initiated by the Author against You), all patent rights granted to You under this License shall immediately terminate.
+
+Important Note: The Author makes no representation that the Software does not infringe any third-party patents, trademarks, or copyrights, and You shall bear all related risks when using the Software. You understand and agree that the Author is not responsible for whether the Software infringes third-party patents, and this patent license does not cover patent technologies provided by community contributors or third parties, nor does the Author make any representations about whether these technologies are licensable. You should conduct Your own patent search and risk assessment when using the Software, especially when integrating the Software into commercial products.
+
+5. Compatibility and Termination
+
+5.1 License Conflict Handling
+If You combine the Software or its Derivative Works with code under a "viral" license such as GPL or AGPL, and such combined work constitutes a "Derivative Work" or "Modified Version" as defined by that viral license and is Distributed, then the terms of this License allowing closed-source distribution shall become ineffective for the entire combined work, and the licensing and distribution of such combined work must fully comply with the requirements of the viral license. This clause takes effect only upon Distribution and does not affect Your internal development or use of the combined work.
+
+Definition of 'Combination': For the purpose of this License, 'Combination' refers to the integration of the Software with viral licensed code through static linking, dynamic linking, tight integration, shared memory, or inter-process communication, and where such integration might constitute a 'Derivative Work' or 'Modified Version' under the relevant viral license. You are responsible for determining whether a 'Derivative Work' or 'Modified Version' is constituted according to the specific terms of the relevant viral license.
+
+5.2 Breach Remedy and Termination
+Should You violate any term of this License, Your rights to use and Distribute the Software will automatically terminate.
+
+Notice and Cure: The Author will notify You of the breach in writing (e.g., via email). You shall have 30 days from the receipt of such notice to cure the breach. If the breach is not cured within this period, Your rights shall terminate permanently.
+Willful Infringement: If the breach is determined to be willful or malicious infringement, the Author reserves the right to immediately terminate all rights without providing a cure period.
+Criteria for 'Willful Infringement': Includes, but is not limited to: violating core restrictions (e.g., Direct Sale) with knowledge or reasonable awareness, refusing or delaying to cure a breach after receiving notice, attempting to circumvent license terms through technical means or false declarations, or fraudulently acquiring or using the Software. The Author reserves the right to comprehensively determine whether an act constitutes willful infringement based on the nature, frequency, and impact of the breach.
+Previously Distributed Copies: For copies of the Software validly Distributed under this License, their licensed rights shall not be affected by the termination of this clause; i.e., third parties who received such copies may continue to use the Software according to the license they obtained.
+6. Globalization Clauses
+
+6.1 Export Control
+You undertake not to use the Software for purposes subject to international sanctions, including but not limited to restricted uses specified by the U.S. Export Administration Regulations (EAR), EU Regulation No. 2580/2001, etc. You are responsible for ensuring that Your use, reproduction, and Distribution comply with all applicable export control laws and regulations.
+
+6.2 Data Protection
+If You use the Software in scenarios involving the processing of personal information, You shall ensure, as a data controller or data processor, that Your actions comply with the data protection regulations of the applicable jurisdiction, such as the EU General Data Protection Regulation (GDPR), China's Cybersecurity Law, etc. The Software is merely a tool, and the Author does not act as a controller or processor of the data You process, nor shall the Author be liable for any responsibilities arising from Your non-compliance with data protection regulations. If the Software itself possesses functionalities for processing personal data, please conduct a compliance assessment before deploying or integrating such functionalities. Functionalities for processing personal data include, but are not limited to, collecting, storing, analyzing, or transmitting user identity information, behavioral data, or other information subject to data protection regulations.
+
+7. General Termination
+
+This License automatically terminates if You fail to comply with any of its terms. The Author reserves the right to decide whether to reinstate the License (within the scope of Article 5.2).
+
+Effects of Termination: Upon termination of this License, You must immediately cease all further use, reproduction, modification, and Distribution of the Software, and cease using and properly dispose of all copies of the Software under Your control or possession (excluding copies lawfully Distributed to third parties under this License). 'Properly dispose' includes, but is not limited to, deleting local copies, revoking public access, and ensuring no further Distribution or use of the Software in any form. For copies lawfully Distributed to third parties, their license validity remains unaffected. The disclaimers and patent defense clause in this Agreement shall remain in effect after termination.
+
+8. Contact Information
+
+For any questions regarding this License, requests for license exceptions, reporting violations, or discussing potential collaborations and contributions, please contact the Author via:
+
+📧 [Your Email Address]
+🌐 [Your Website/Project Homepage]
